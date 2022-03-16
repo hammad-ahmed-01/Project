@@ -145,8 +145,6 @@ def start_the_game():
     
 def mainmenu():
  global menu
- #font = pygame.font.SysFont("Arial", bold=b, italic=i)
- #text = font.render ("Hello!", True, (colour))
  menu = pygame_menu.Menu('DESTINY', 400, 300, theme=pygame_menu.themes.THEME_SOLARIZED)
  menu.add.text_input('TANIKS :')
  menu.add.text_input('GUARDIAN :')
