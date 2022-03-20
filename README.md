@@ -1,4 +1,4 @@
- <h1 align="center">Basic Concepts of Python </h1>
+ <h1 align="center">Projects of CS </h1>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
