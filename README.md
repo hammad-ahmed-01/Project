@@ -35,4 +35,5 @@ This Repostory basically consists of My End Semester projects of Computer Scienc
     <img src="wordpress.jfif"  alt="wp logo" width="150" height="150">
     <img src="react.png"  alt="react logo" width="150" height="150">
     <img src="javascript_logo.png"  alt="JS logo" width="150" height="150">
+    <img src="html.jpg"  alt="Python logo" width="150" height="150">
   </a>
