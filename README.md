@@ -31,9 +31,9 @@ This Repostory basically consists of My End Semester projects of Computer Scienc
   <a href="#">
     <img src="Python.png" alt="Python Logo" width="190" height="130">
     <img src="Logos/Cplus.png"  alt="C++ logo" width="150" height="150">
-    <img src="css.png"  alt="css logo" width="150" height="150">
-    <img src="wordpress.jfif"  alt="wp logo" width="150" height="150">
-    <img src="react.png"  alt="react logo" width="150" height="150">
-    <img src="javascript_logo.png"  alt="JS logo" width="150" height="150">
-    <img src="html.jpg"  alt="Python logo" width="150" height="150">
+    <img src="Logos/css.png"  alt="css logo" width="150" height="150">
+    <img src="Logos/wordpress.jfif"  alt="wp logo" width="150" height="150">
+    <img src="Logos/react.png"  alt="react logo" width="150" height="150">
+    <img src="Logos/javascript_logo.png"  alt="JS logo" width="150" height="150">
+    <img src="Logos/html.jpg"  alt="Python logo" width="150" height="150">
   </a>
