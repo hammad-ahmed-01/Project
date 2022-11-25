@@ -1,10 +1,8 @@
 /* ==========================================
+
            " Banking System "
          OOP End Semester Project
-                BSCS 11A
-
-      Hammad Ahmed     Yusuf Haroon
-         393404           368908
+   
  ==========================================  */
 
  //HEADER FILES
